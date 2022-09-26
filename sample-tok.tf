@@ -9,5 +9,5 @@ terraform {
 
 provider "databricks" {
   host  = "https://e2-demo-field-eng.cloud.databricks.com"
-  token = "dapiba52358e21ff9a7234f0353f645db128"
+  token = "my-databricks-token"
 }
