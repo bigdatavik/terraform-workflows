@@ -30,3 +30,8 @@ override.tf.json
 
 .DS_Store
 .terraform.lock.hcl
+*token*.tf
+token.tf
+git-creds*.tf
+*git-creds*.tf*
+git-creds.tf
