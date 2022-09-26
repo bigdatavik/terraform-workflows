@@ -36,3 +36,4 @@ token.tf
 git-creds*.tf
 *git-creds*.tf*
 git-creds.tf
+**/token.tf
